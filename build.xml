@@ -11,7 +11,7 @@
 		<jar destfile="${build}/${ant.project.name}.jar">
 		    <fileset dir="./bin"
 		             excludes="build.xml"
-		    />
+		    /> 
  			<!--<manifest>
                 <attribute name="Main-Class" value="oata.HelloWorld"/>
             </manifest>-->

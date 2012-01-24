@@ -14,7 +14,6 @@ import org.apache.log4j.PropertyConfigurator;
  */
 public class Log4JUtil {
 
-	private final String CLASS_NAME = "ro.cuzma.util.Log4JUtil";
 	private static String logFile;
 
 	/**
